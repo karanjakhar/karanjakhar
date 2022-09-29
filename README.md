@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer || Computer Vision
 ---------------------------------------
 
-I have been working on Computer Vision applications for 3 years. I have developed them and also developed there interfaces.
+I have been working on Computer Vision applications for 3 years. I learned full stack development by build Computer vision applications backend and frontend.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://karanjakhar.netlify.app/](http://https://karanjakhar.netlify.app/)
