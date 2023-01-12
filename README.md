@@ -9,7 +9,7 @@ I have been working on Computer Vision applications for 3 years. I learned full 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://karanjakhar.com](https://karanjakhar.com)
 * ✉️  You can contact me at [karanjakhar49@gmail.com](mailto:karanjakhar49@gmail.com)
-* 🧠  I'm learning React and FastAPI
+<!-- * 🧠  I'm learning React and FastAPI -->
 * 🤝  I'm open to collaborating on any interesting project. Ping me :)
 * ⚡  Got any ideas. Let's connect.
 
