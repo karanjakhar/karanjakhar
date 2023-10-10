@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer || Computer Vision
 ---------------------------------------
 
-I have been working on Computer Vision applications for 3 years. I learned full stack development by building Computer vision applications backend and frontend.
+I have been working on Computer Vision applications for 3 years. I learned full-stack development by building Computer vision applications backend and frontend.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://karanjakhar.com](https://karanjakhar.com)
 * ✉️  You can contact me at [karanjakhar49@gmail.com](mailto:karanjakhar49@gmail.com)
 <!-- * 🧠  I'm learning React and FastAPI -->
 * 🤝  I'm open to collaborating on any interesting project. Ping me :)
-* ⚡  Got any ideas. Let's connect.
+* ⚡  Got any ideas? Let's connect.
 
 ### Skills
 
@@ -23,6 +23,9 @@ I have been working on Computer Vision applications for 3 years. I learned full 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="Fast API" /></a>
+
 </p>
 
 
