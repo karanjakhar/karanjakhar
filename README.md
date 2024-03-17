@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  Computer Vision || Generative AI || Machine Learning Engineer
 ---------------------------------------
 
-I have been working on vision-related applications for 4 years.
+I have been working on vision-related applications in the industry for 4 years.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://karanjakhar.com](https://karanjakhar.com)
