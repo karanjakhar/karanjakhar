@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karan Jakhar
 ====================================================================================================================================
 
-Full Stack Developer || Computer Vision
+ Computer Vision || Generative AI || Machine Learning Engineer
 ---------------------------------------
 
-I have been working on Computer Vision applications for 3 years. I learned full-stack development by building Computer vision applications backend and frontend.
+I have been working on vision-related applications for 4 years.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://karanjakhar.com](https://karanjakhar.com)
