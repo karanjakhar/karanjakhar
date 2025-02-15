@@ -1,15 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karan Jakhar
 ====================================================================================================================================
 
- Computer Vision || Generative AI || Machine Learning Engineer
+Senior Machine Learning Engineer
 ---------------------------------------
 
-I have been working on vision-related applications in the industry for 4 years.
+I have around 5 years of experience as Machine learning engineer. 
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [https://karanjakhar.com](https://karanjakhar.com)
 * ✉️  You can contact me at [karanjakhar49@gmail.com](mailto:karanjakhar49@gmail.com)
-<!-- * 🧠  I'm learning React and FastAPI -->
 * 🤝  I'm open to collaborating on any interesting project. Ping me :)
 * ⚡  Got any ideas? Let's connect.
 
